@@ -24,7 +24,7 @@
 
 I am a Junior Web Developer from Brazil
 
-- 🌱 Working with React at my current internship
+- 🌱 Working with React and Java at my current internship
 
 - 🖥️ Improving my skills with my own projects 
 
