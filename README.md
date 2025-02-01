@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About me:
 
-I am a Junior Web Developer from Brazil
+I am a Junior Web Developer from Brazil [![Archen](https://img.pokemondb.net/sprites/black-white/anim/normal/archen.gif)](https://pokemondb.net/pokedex/archen)
 
 - 🌱 Working with React and Java at my current internship
 
